@@ -1,0 +1,13 @@
+{
+  "name": "bridge-coze-greenapi",
+  "version": "1.0.0",
+  "description": "Jembatan Damayanti Coze ke Green API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.19.0"
+  }
+}
